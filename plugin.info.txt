@@ -1,0 +1,7 @@
+base   htmldetailstag
+author Sascha Klawohn
+email  sideboard@revolutionarts.de
+date   2021-03-18
+name   HTML Details Tag Plugin
+desc   Use the HTML <details> and <summary> tag for toggling information
+url    https://github.com/Sideboard/dokuwiki-plugin-htmldetailstag
